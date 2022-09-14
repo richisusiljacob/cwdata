@@ -7,7 +7,7 @@
 
 ## Installation
 
-You can instal cwdata from [GitHub](https://github.com/) with:
+You can install cwdata from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
